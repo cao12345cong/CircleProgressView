@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CirleProgressView</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="meter">
+        <item>100KB</item>
+        <item>400KB</item>
+        <item>700KB</item>
+        <item>1M</item>
+        <item>1.3M</item>
+        <item>1.6M</item>
+        <item>1.9M</item>
+    </string-array>
+</resources>
