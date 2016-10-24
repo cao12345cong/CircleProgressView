@@ -172,7 +172,6 @@ public class CircleProgressView extends View {
         drawText(canvas);
         //绘制火箭
         drawRocket(canvas);
-        canvas.restore();
     }
 
     private void drawBackBorder(Canvas canvas) {
